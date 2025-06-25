@@ -1,3 +1,9 @@
+
+
+app = Flask(__name__)
+Expand
+Metro's Backend.py
+6 KB
 import requests
 import random
 from flask import Flask, jsonify, request
